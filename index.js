@@ -7,7 +7,7 @@ const cors=require('cors');
 
 const allowedOrigins = [
     // Local development URL
-   'http://localhost:5174', // Vercel deployment URL
+   'https://student-attendance-theta.vercel.app', // Vercel deployment URL
    // Add more allowed origins if needed
  ];
  
